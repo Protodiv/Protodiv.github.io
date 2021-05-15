@@ -22,5 +22,8 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ]
+  ],
+  "url": "https://protodiv.github.io/",
+  "manifestUrl": "https://protodiv.github.io/manifest.json",
+  "lang": ""
 }

@@ -26,6 +26,18 @@
       "src": "img/iconsPwa152x152.png",
       "type": "image/png",
       "sizes": "180x180"
+    },
+    {
+      "src": "img/iconsPwa152x152.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "apple-touch-icon"
+    },
+    {
+      "src": "img/iconsPwa128x128.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "maskable"
     }
   ],
   "url": "https://protodiv.github.io/",

@@ -21,6 +21,11 @@
       "src": "img/iconsPwa512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "img/iconsPwa152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
     }
   ],
   "url": "https://protodiv.github.io/",

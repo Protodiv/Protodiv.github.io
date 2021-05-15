@@ -1,7 +1,7 @@
 {
   "name": "Pwa app",
   "short_name": "pwa",
-  "start_url": "index.html",
+  "start_url": "https://protodiv.github.io/",
   "display": "standalone",
   "background_color": "#fafafa",
   "orientation": "portrait-primary",

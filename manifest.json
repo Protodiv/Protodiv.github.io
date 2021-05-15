@@ -3,7 +3,7 @@
   "short_name": "pwa",
   "start_url": "https://protodiv.github.io/",
   "display": "standalone",
-  "theme-color": "#ffffff",
+  "theme_color": "#317EFB",
   "background_color": "#fafafa",
   "orientation": "portrait-primary",
   "icons": [

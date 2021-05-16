@@ -1,7 +1,9 @@
 # Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-  - .well-known/
-  - .well-known/assetlinks.json
+#include:
+#  - .htaccess
+#  - _pages
+#  - files
+#  - .well-known/
+#  - .well-known/assetlinks.json
+
+include: [.well-known, .well-known/assetlinks.json , .well-known/]

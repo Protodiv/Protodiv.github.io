@@ -1,1 +1,5 @@
-include: [.well-known]
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files

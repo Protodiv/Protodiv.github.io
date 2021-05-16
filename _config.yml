@@ -6,4 +6,4 @@
 #  - .well-known/
 #  - .well-known/assetlinks.json
 
-include: ["/.well-known", "/.well-known/assetlinks.json" , "/.well-known/"]
+include: ['.well-known']

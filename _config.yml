@@ -1,2 +1,2 @@
 # Folders with dotfiles are ignored by default.
-include: ["source/.well-known"]
+include: ["https://protodiv.github.io/.well-known"]

@@ -1,3 +1,0 @@
-#include: [".well-known"]
-[permalinks]
-    well-know = ".well-known/assetlinks.json"

@@ -1,1 +1,1 @@
-include :[".well-known/assetlinks.json",".well-known/",".well-known/assetlinks",".well-known","/.well-known"]
+include: [.well-known]

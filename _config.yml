@@ -6,4 +6,7 @@
 #  - .well-known/
 #  - .well-known/assetlinks.json
 
-include: ['.well-known']
+#include: ['.well-known']
+include:
+  - .htaccess
+  - .well-known

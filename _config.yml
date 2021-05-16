@@ -1,13 +1,13 @@
-#include: [".well-known"]
-#[permalinks]
-#    well-know = ".well-known/assetlinks.json"
-
-# Where things are
-source              : .
-destination         : ./_site
-collections_dir     : .
-includes_dir        : _includes
-
-# Handling Reading
-include             : [".htaccess",".well-known"]
-encoding            : "utf-8"
+##include: [".well-known"]
+##[permalinks]
+##    well-know = ".well-known/assetlinks.json"
+#
+## Where things are
+#source              : .
+#destination         : ./_site
+#collections_dir     : .
+#includes_dir        : _includes
+#
+## Handling Reading
+#include             : [".htaccess",".well-known"]
+#encoding            : "utf-8"
